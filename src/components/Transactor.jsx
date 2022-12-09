@@ -2,9 +2,6 @@ import { Loader } from ".";
 import React, { useEffect, UseEffect, useState, UseState} from 'react';
 import { ethers } from 'ethers';
 import eth from '../etherum.png'
-import cap from '../degreeCap.png'
-import blue_cap from '../blue-graduation-cap.png'
-import inclined_cap from '../graduation-cap-inclined.png'
 
 import { contractABI, contractAddress } from '../utils/constants';
 
